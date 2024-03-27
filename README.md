@@ -7,5 +7,5 @@
 <br>
 - `Full Name:` `Hasan Mohammed Al-Sheikh` | `☪️ Religion: ` `Muslim`
 - `🚩 From:` `Syria` | `Languages:` `Java/Python`
-- `🚩 Live:` `Turkey` | `📪 Email: `hasan.sehed99@gmail.com`
+- `🚩 Live:` `Turkey` | `📪 Email:` `hasan.sehed99@gmail.com`
 - `Age:` `23` | `OS:` `Windows/Linux`
